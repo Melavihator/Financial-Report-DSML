@@ -27,10 +27,10 @@ This dashboard offers a comprehensive overview of your company's financial perfo
 ### Steps followed 
 
 - Step 1 : Load data into Power BI Desktop, dataset is a xml file.
-- Step 2 : Open power query editor & in view tab under Data preview section, check "Order table", "people tables" & "market tables" and their respective columns unanimously.
+- Step 2 : Open power query editor & in view tab under Data preview section, check their respective columns unanimously.
 - Step 3 : As part of cleaning the data set columns having null values and exceptional values are encountered have been removed from the data set ".
 - Step 4 :Clearly checked if many more cleaning process should be taken care of.
-- Step 5 : Create relations with the 3 tables, in which tables with similar names or similar datas are formulated in such to establish effectively 
+- Step 5 : Create relations with tables, in which tables with similar names or similar datas are formulated in such to establish effectively 
 - Step 6 : In the report view, under the view tab, theme was selected.
 - Step 7 : formulated baisic data visualisation strategy  in the visualizations pane in report view. 
 - Step 8 : Segment the visuals using sales, country, profit effectively
